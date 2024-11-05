@@ -1,0 +1,14 @@
+main {
+  max-width: 800px;
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.profile-image {
+  width: 250px;
+  height: auto;
+}
